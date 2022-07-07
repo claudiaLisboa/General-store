@@ -1,8 +1,8 @@
-# General-store
+# General- Store
 
 # PHP - Code is based on the Model-View-Controller development pattern
-## MVC is a software approach that separates application logic from presentation. 
-## In practice, it permits your web pages to contain minimal scripting since the presentation is separate from the PHP scripting.
++ MVC is a software approach that separates application logic from presentation. 
++ In practice, it permits your web pages to contain minimal scripting since the presentation is separate from the PHP scripting.
 
 ## For studding proposes
 
