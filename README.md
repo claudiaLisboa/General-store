@@ -8,8 +8,8 @@
 
 <img width="1438" alt="produits disponibles" src="https://user-images.githubusercontent.com/21189063/177685426-4caaaf2a-3464-464d-ade5-aeeffbd17080.png">
 
-<img width="1437" alt="produits par categories" src="https://user-images.githubusercontent.com/21189063/177685462-9113d08e-d662-4bb6-902e-f73978dfc7c8.png">
+<img width="1435" alt="produits par categories" src="https://user-images.githubusercontent.com/21189063/177686129-e8bacacd-07ad-4fd8-a66d-6bdced5b17da.png">
 
 <img width="1446" alt="sofat-ethan" src="https://user-images.githubusercontent.com/21189063/177685483-0c36a895-ed09-49ee-b142-06b3dcdaf9cc.png">
 
-<img width="1439" alt="chaise_megan" src="https://user-images.githubusercontent.com/21189063/177685513-5a647b2c-2252-4d94-9b4d-e8747115c4a0.png">
+<img width="1434" alt="chaise_megan" src="https://user-images.githubusercontent.com/21189063/177686090-0747fe16-1030-4daf-bf7f-da92103c701c.png">
